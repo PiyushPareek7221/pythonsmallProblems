@@ -1,1 +1,1 @@
-# pythonsmallProblems
+# miscellaneousProblems
